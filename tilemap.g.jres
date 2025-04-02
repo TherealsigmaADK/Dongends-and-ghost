@@ -1,0 +1,30 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwNTA1MDUwNTA5MDQwNTA1MDUwNTA1MDEwMzAyMDEwMTA1MDUwNTA1MDkwNDA1MDUwNTA1MDUwMTAyMDIwMTAxMDUwNTA1MDUwNTA0MDUwNTA1MDgwNTAxMDIwMjAxMDEwNTA1MDQwNDA0MDQwNTA4MDUwNTA1MDEwMTAyMDEwMTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwMTAxMDUwNTA1MDUwNTA4MDUwNTA1MDYwNTA1MDUwNTAxMDEwNTA4MDUwODA1MDUwNTA4MDUwNTA1MDUwNTA1MDEwMTA1MDUwNTA1MDUwNjA1MDUwNTA4MDUwNTA1MDUwMTAxMDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA4MDUwNTAxMDEwNDA0MDQwNDA1MDUwNTA1MDUwNTA1MDUwNTA1MDEwMTAyMDIwMjA0MDUwNTA4MDUwNTA2MDcwNzA3MDcwMTAxMDIwMjAyMDQwNTA1MDUwODA1MDcwNzA3MDcwNzAxMDEwMjAyMDIwNTA4MDUwNTA1MDUwNzA3MDcwNzA3MDEwMTAyMDIwMjAyMDUwNTA1MDUwNTA3MDcwNzA3MDcwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAyMDAwMDIyMjAwMjAwMDAwMjAwMDAwMjIwMDIwMDAwMDIwMDAyMDIyMDAyMjAyMjAyMDIwMDIyMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDIwMDAyMDAyMDAyMDIwMjAwMDIwMDAwMjAwMjAwMDAwMjAwMDIwMDIwMDIwMDAwMDAwMDAwMDIyMDIyMjIwMjAwMDAwMDAwMjAwMjAwMDIyMDAwMDIwMDIwMDIwMDAyMDAwMjAwMDAyMDAyMDAyMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.builtin.brick",
+            "sprites.dungeon.darkGroundCenter",
+            "sprites.dungeon.chestClosed",
+            "sprites.dungeon.floorLight0",
+            "sprites.dungeon.darkGroundSouthEast1",
+            "sprites.castle.saplingPine",
+            "sprites.castle.shrub",
+            "sprites.castle.rock0",
+            "sprites.castle.tileGrass2"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
